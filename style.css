@@ -2,3 +2,14 @@
 	background: forestgreen;
 	padding: 1rem;
 }
+
+.postcard {
+	background-image: url('images/athens-postcard.jpg');
+	font-size: 5rem;
+    color: white;
+    max-width: 50%;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 4rem;
+}
